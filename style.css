@@ -1,0 +1,46 @@
+ body{
+     background-color:  hsl(212, 45%, 89%);
+     
+ }
+ .mel{
+     background-color: hsl(0, 0%, 100%);
+     width: 200px;
+     height: 300px;
+     border-radius: 10px;
+     margin-top: 70px;
+     margin-left: 40%;
+ }
+
+.vin img{
+    padding: 10px;
+    border-radius: 20px;
+} 
+.vin h4{
+    text-align: center;
+    font-size: 13px;
+    margin-top: -4px;
+    font-family: 'Outfit', sans-serif;
+    
+}
+.vin p{
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    padding: 5px;
+}
+.attribution {
+    font-size: 11px; text-align: center;
+    margin-top: 20px;
+ }
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+}
+
+@viewport{
+    zoom: 1;
+    width: exnted-to-zoom;
+}
+@-ms-viewport{
+    width:exnted-to-zoom ;
+    zoom: 1;
+}
